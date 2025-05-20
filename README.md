@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @magzxy
 - 👀 I’m interested in too many things with not enough time
 - 🌱 I’m currently learning php/sql
-- 📫 How to reach me: magzxy on twitter
+- 📫 How to reach me: magzxyy on twitter
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: i love formula 1
 
