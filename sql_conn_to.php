@@ -22,7 +22,7 @@ else{
 
 while($table=$result->fetch_assoc()){
 
-echo $tablica['name'];
+echo $table['name'];
 
 }
 
