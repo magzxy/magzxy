@@ -15,8 +15,7 @@ $query="select * from table";
 $result=$conn->query($query);
 
 if($result->num_rows==0){
-
-echo "brak danych w bazie";
+echo "no data";
 }
 
 else{
